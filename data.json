@@ -1,0 +1,92 @@
+{
+    "fender": [
+        {
+            "foto": "images/gitar/fender1.jpg",
+            "nama": "Fender Stratocaster",
+            "size": "est 1968",
+            "harga": "20.000.0000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/fender2.jpg",
+            "nama": "Fender Telecaster",
+            "size": "est 1952",
+            "harga": "35.000.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/fender3.jpg",
+            "nama": "Fender Jazzmaster",
+            "size": "est 2001",
+            "harga": "18.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/fender4.jpg",
+            "nama": "Fender Mustang",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "suhr": [
+        {
+            "foto": "images/gitar/suhr1.jpg",
+            "nama": "Suhr Classic T",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/suhr2.jpg",
+            "nama": "Suhr Classic S",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/suhr3.jpg",
+            "nama": "Suhr Classic JM",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/suhr4.jpg",
+            "nama": "Suhr Modern Plus",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "prs": [
+        {
+            "foto": "images/gitar/prs1.jpg",
+            "nama": "PRS Core 24",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/prs2.jpg",
+            "nama": "PRS S2",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/prs3.jpg",
+            "nama": "PRS SE",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/gitar/prs4.jpg",
+            "nama": "PRS Private Stock",
+            "size": "est 2005",
+            "harga": "22.000.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ]
+}
